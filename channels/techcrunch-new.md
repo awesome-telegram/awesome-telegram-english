@@ -1,18 +1,21 @@
-# English Channel
+# TechCrunch
+
+Tech news.
 
 ## Basic Information
-- **Name:** English Channel
+- **Name:** TechCrunch
 - **Type:** Channel
 - **Language:** English
-- **Telegram Link:** https://t.me/englishchannel
+- **Telegram Link:** https://t.me/techcrunch1
 
 ## Description
 
-English Telegram channel.
+Technology news channel.
 
 ## Topics
-- News
-- Entertainment
+- Technology
+- Startups
+- Business
 
 ## Notes
 Source: Public network collection

@@ -1,18 +1,20 @@
-# English Channel
+# LiveMint
+
+Finance news.
 
 ## Basic Information
-- **Name:** English Channel
+- **Name:** LiveMint
 - **Type:** Channel
 - **Language:** English
-- **Telegram Link:** https://t.me/englishchannel
+- **Telegram Link:** https://t.me/livemint
 
 ## Description
 
-English Telegram channel.
+Financial news.
 
 ## Topics
-- News
-- Entertainment
+- Finance
+- Business
 
 ## Notes
 Source: Public network collection

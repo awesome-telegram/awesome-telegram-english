@@ -1,18 +1,19 @@
-# English Channel
+# YTech
+
+Tech news.
 
 ## Basic Information
-- **Name:** English Channel
+- **Name:** YTech
 - **Type:** Channel
 - **Language:** English
-- **Telegram Link:** https://t.me/englishchannel
+- **Telegram Link:** https://t.me/ytechb
 
 ## Description
 
-English Telegram channel.
+Technology news.
 
 ## Topics
-- News
-- Entertainment
+- Technology
 
 ## Notes
 Source: Public network collection

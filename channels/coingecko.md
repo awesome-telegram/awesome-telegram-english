@@ -1,18 +1,21 @@
-# English Channel
+# CoinGecko
+
+Crypto signals.
 
 ## Basic Information
-- **Name:** English Channel
+- **Name:** CoinGecko
 - **Type:** Channel
 - **Language:** English
-- **Telegram Link:** https://t.me/englishchannel
+- **Telegram Link:** https://t.me/coincodecap
 
 ## Description
 
-English Telegram channel.
+Crypto signals and news.
 
 ## Topics
-- News
-- Entertainment
+- Crypto
+- Trading
+- Signals
 
 ## Notes
 Source: Public network collection

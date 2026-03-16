@@ -1,18 +1,20 @@
-# English Channel
+# Business Insider
+
+Business news.
 
 ## Basic Information
-- **Name:** English Channel
+- **Name:** Business Insider
 - **Type:** Channel
 - **Language:** English
-- **Telegram Link:** https://t.me/englishchannel
+- **Telegram Link:** https://t.me/BusinessInsider
 
 ## Description
 
-English Telegram channel.
+Business news channel.
 
 ## Topics
-- News
-- Entertainment
+- Business
+- Finance
 
 ## Notes
 Source: Public network collection
